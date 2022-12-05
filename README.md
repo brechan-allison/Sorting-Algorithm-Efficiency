@@ -3,4 +3,4 @@ Compares various sorting methods and displays time, number of data movements, an
 
 Use .txt file to test
 
-![sortingAlgorithms](sortingAlgorithms.png)
+![sortingAlgorithm](sortingAlgorithm.png)
